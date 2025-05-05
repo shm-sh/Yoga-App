@@ -1,9 +1,10 @@
 streamlit==1.29.0
-opencv-python-headless==4.8.0
-mediapipe==0.10.0
-tensorflow==2.15.0
+opencv-python-headless==4.8.0.76
+mediapipe==0.10.11
+tensorflow-cpu==2.15.0
 numpy==1.26.2
-pygame==2.5.1
+pygame==2.5.2
 google-generativeai==0.3.2
 streamlit-option-menu==0.3.6
 protobuf==3.20.3
+six==1.16.0
