@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 libopencv-core4.2
 libopencv-highgui4.2
 libgl1
@@ -6,3 +7,10 @@ libsm6
 libxext6
 libxrender-dev
 libgtk2.0-0
+=======
+libgl1
+libgtk2.0-0
+libsm6
+libxext6
+libxrender-dev
+>>>>>>> d70465d0732f342f1622013bb688ddc732310029
